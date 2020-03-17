@@ -1,4 +1,4 @@
-# Laravel 6 Classifieds Directory demo
+# Laravel 7 Classifieds Directory demo
 
 Simple project with classifieds database of companies/services/cities.
 
